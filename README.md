@@ -5,14 +5,29 @@
 
 ## Start TDD from a simple code
 
-* react version: 16.2.0
+* react: 16.2.0
 * react-dom: 16.2.0
 
-Requirements:
+## Requirements:
 
 * [`enzyme`](https://github.com/airbnb/enzyme) is a javaScript testing utilities.
-* [`react-addons-test-utils`]
-* [`react-test-renderer`]
-You almost never need to update `create-react-app` itself: it delegates all the setup to `react-scripts`.
+* [`react-addons-test-utils`](https://reactjs.org/docs/test-utils.html) ReactTestUtils
+* [`react-test-renderer`](https://www.npmjs.com/package/react-test-renderer)
 
-[Ejecting](#npm-run-eject) lets you customize anything, but from that point on you have to maintain the configuration and scripts yourself. This can be daunting if you have many similar projects. In such cases instead of ejecting we recommend to *fork* `react-scripts` and any other packages you need.
+## Install
+```bash
+$ git clone https://github.com/mozillo/start-tdd-frontend.git your-project-name
+$ cd your-project-name
+$ yarn
+
+```
+
+## Run
+
+```bash
+$ yarn start
+```
+## Test
+```bash
+$ yarn test
+```
