@@ -1,4 +1,16 @@
 ## Table of Contents
+Make some simple pages from TDD code:
+- [x] Comment list
+- [ ] Login / sign up page
+- [ ] Newsfeed component like facebook newsfeed
+- [ ] Personal main page
+- [ ] Notification dropdown component
+- [ ] Search page
+- [ ] Group page
+- [ ] Gallery page
+- [ ] Chat page
+- [ ] Add graphql to component
+
 
 - [Start TDD from a simple code](#start-tdd-from-a-simple-code)
 
