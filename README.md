@@ -14,6 +14,7 @@ Make some simple pages from TDD code:
 - [ ] Gallery page
 - [ ] Chat page
 - [ ] Add [graphql](https://facebook.github.io/graphql/October2016/) to component
+
 Some implements:
 - [x] Stateless components
 - [x] Hoc components
