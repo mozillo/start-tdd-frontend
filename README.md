@@ -9,7 +9,7 @@ Make some simple pages from TDD code:
 - [ ] Group page
 - [ ] Gallery page
 - [ ] Chat page
-- [ ] Add graphql to component
+- [ ] Add [graphql](https://facebook.github.io/graphql/October2016/) to component
 
 
 - [Start TDD from a simple code](#start-tdd-from-a-simple-code)
