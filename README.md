@@ -1,4 +1,4 @@
-## Table of Contents
+## Todo
 Make some simple pages from TDD code:
 - [x] Comment list
 - [ ] Login / sign up page
@@ -12,6 +12,7 @@ Make some simple pages from TDD code:
 - [ ] Add [graphql](https://facebook.github.io/graphql/October2016/) to component
 
 
+## Table of Contents
 - [Start TDD from a simple code](#start-tdd-from-a-simple-code)
 
 
