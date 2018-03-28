@@ -1,3 +1,7 @@
+## Conclusion:
+
+![](./react-related.png)
+
 ## Todo
 Make some simple pages from TDD code:
 - [x] Comment list
