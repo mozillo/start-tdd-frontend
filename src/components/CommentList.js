@@ -10,7 +10,7 @@ const CommentList = props => (
         <li key={`CommentList-${key}`}>
           <div className={'commentContent'}>{props.comments[key]['text']}</div>
           <span className={'commentUser'}>{props.comments[key]['author']}</span>
-          <span className={'btn'}>Edit</span>
+          <span className={'btn'}><a href={'#'}>reply</a></span>
         </li>
         )
       }

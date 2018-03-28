@@ -1,5 +1,20 @@
 body {
   margin: 0;
-  padding: 0;
   font-family: sans-serif;
+  font-size: 12px;
+  padding: 10px;
+}
+
+
+.flex-layout {
+  display: flex;
+}
+
+.flex-layout > div {
+  flex: 1;
+  padding: 0 50px;
+}
+
+span.btn {
+  margin: 0 10px;
 }

@@ -1,0 +1,18 @@
+{
+    "1": [
+        { "group_name": "react.js", "description": "some description" },
+        { "group_name": "react.js", "description": "some description" },
+        { "group_name": "react.js", "description": "some description" },
+        { "group_name": "react.js", "description": "some description" },
+        { "group_name": "react.js", "description": "some description" },
+        { "group_name": "react.js", "description": "some description" }
+    ],
+    "2": [
+        { "group_name": "mobx", "description": "some description" },
+        { "group_name": "mobx", "description": "some description" },
+        { "group_name": "mobx", "description": "some description" },
+        { "group_name": "mobx", "description": "some description" },
+        { "group_name": "mobx", "description": "some description" },
+        { "group_name": "mobx", "description": "some description" }
+    ]
+}
